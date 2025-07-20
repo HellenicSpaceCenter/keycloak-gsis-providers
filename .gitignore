@@ -1,2 +1,9 @@
 log/
-target/
+/target/
+
+/.settings
+/.classpath
+/.project
+
+
+/.envrc
